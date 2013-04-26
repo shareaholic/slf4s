@@ -12,8 +12,10 @@
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  * See the License for the specific language governing permissions and
  * limitations under the License.
+ *
+ * modified by jmeyer@shareaholic.com
  */
-package com.weiglewilczek.slf4s
+package com.shareaholic.slf4s
 
 import org.slf4j.{ Logger => Slf4jLogger, LoggerFactory }
 import org.slf4j.spi.{ LocationAwareLogger => Slf4jLocationAwareLogger }
